@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IncryT
+- 👋 Hi, I’m Trudy
 - 👀 I’m interested in learning 
 - 🌱 I’m currently studying towards a software engineering degree 
 - 💞️ I’m looking to collaborate on ...
